@@ -1,1 +1,1 @@
-# Netpune.ai Tutorials
+# Netpune.ai tutorials
